@@ -69,3 +69,23 @@ Hash tables get their name from a trick called **hashing**, which lets them tran
 [Hash Table Data Structure](https://realpython.com/python-hash-table/#get-to-know-the-hash-table-data-structure)
 
 [Python Data Structures](https://realpython.com/python-data-structures/)
+
+[Python-Algorythms-Data-Structures](https://github.com/kkazimierska/Python-for-Algorithms--Data-Structures--and-Interviews)
+
+
+PLAN
+1. Real Python Dict, Maps, HasTabs
+
+2. Task usage
+
+3. Implementation of Stack, Queue – usage
+CH 3 – 01-07
+
+4. Real Python - Import from library
+Usage
+
+How to put abstract data types to practical use in various algorithms
+
+
+5. LinkedList - usage
+CH 4 – 02, 04
