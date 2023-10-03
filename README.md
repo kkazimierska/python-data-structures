@@ -180,6 +180,11 @@ which returns the minimum element? Push, pop and min should all operate in 0(1) 
 [Cracking Coding Interview PDF](https://github.com/kkazimierska/CrackingCodingInterview)
 
 [Cracking Coding Interview - Solutions Python](https://github.com/kkazimierska/CtCI-6th-Edition-Python)
+
+## TO add
+Queue
+Linked List
+
 ## QA Check
 
 When can you best apply binary search? Give a real-world example.
@@ -190,19 +195,8 @@ What is the difference between a stack and a queue?
 
 Explain the difference between LIFO and FIFO.
 
-PLAN
-1. Real Python Dict, Maps, HasTabs
-
-2. Task usage
-
-3. Implementation of Stack, Queue – usage
-CH 3 – 01-07
-
-4. Real Python - Import from library
-Usage
-
-How to put abstract data types to practical use in various algorithms
 
 
-5. LinkedList - usage
-CH 4 – 02, 04
+
+
+
