@@ -23,13 +23,13 @@ class Stack:
     def __bool__(self):
         # lets us use the stack as a conditional
         return bool(self.items)
-    
+
 s = Stack()
-print(s.is_empty())
+s.is_empty()
 s.push(1)
 s.push('two')
 s.is_empty()
-s.size()
+len(s)
 s.pop()
 s.pop()
 s.is_empty()
