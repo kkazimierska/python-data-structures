@@ -106,8 +106,11 @@ len(text)
 ```
 
 The secret to such a blazing **speed** is that sequences in Python are backed by an array, which is a **random-access data structure** (the ability to access an arbitrary element of a sequence in equal time).
+
 The array occupies a **contiguous block of memory**.
+
 Every element in the array has a fixed size known up front.
+
 When you know the memory address of an array, which is called the offset, then you can get to the desired element in the array instantly by calculating a fairly straightforward formula:
 
 ```
@@ -118,7 +121,10 @@ Okay, so you know that finding an element in an array is quick, no matter where 
 
 
 Can you take the same idea and reuse it in a dictionary? Yes!
-Hash tables get their name from a trick called **hashing**, which lets them translate an arbitrary key into an integer number that can work as an index in a regular array, [ref](https://realpython.com/python-hash-table/#get-to-know-the-hash-table-data-structure).
+
+Hash tables get their name from a trick called **hashing**,
+
+which lets them translate an arbitrary key into an integer number that can work as an index in a regular array, [ref](https://realpython.com/python-hash-table/#get-to-know-the-hash-table-data-structure).
 
 
 ### list: Mutable Dynamic Arrays
